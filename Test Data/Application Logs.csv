@@ -1,0 +1,191 @@
+Name,Origin,Log Type,Application Name,Entity Name,Record Name,Record Id,Description
+TFL.DeletionPolicy.Job run successfully on 2021-08-28T18:30:04.0362303Z,Power Automate,Information,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+"
+Parent Account is missing for case CAS-01002-W2H8W2,Power Automate,Warning,Set Retention End Date,Case,Travel card is lost,a3ccba18-c78f-4e9f-8a45-1a88da575e16,"Retention end date update has been failed for case CAS-01002-W2H8W2. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01002-W2H8W2"
+Parent Account is missing for case CAS-01002-W2H8W2,Power Automate,Warning,Set Retention End Date,Case,Travel card is lost,a3ccba18-c78f-4e9f-8a45-1a88da575e16,"Retention end date update has been failed for case CAS-01002-W2H8W2. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01002-W2H8W2"
+Parent Account is missing for case CAS-01002-W2H8W2,Power Automate,Warning,Set Retention End Date,Case,Travel card is lost,a3ccba18-c78f-4e9f-8a45-1a88da575e16,"Retention end date update has been failed for case CAS-01002-W2H8W2. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01002-W2H8W2"
+Parent Account is missing for case CAS-01002-W2H8W2,Power Automate,Warning,Set Retention End Date,Case,Travel card is lost,a3ccba18-c78f-4e9f-8a45-1a88da575e16,"Retention end date update has been failed for case CAS-01002-W2H8W2. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01002-W2H8W2"
+Parent Account is missing for case CAS-01005-S7T1P1,Power Automate,Warning,Set Retention End Date,Case,Service fee is pending for 3 months,0d073f8e-d7f2-4426-ad93-f75d80b4a667,"Retention end date update has been failed for case CAS-01005-S7T1P1. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01005-S7T1P1"
+TFL.Application.Data.getConfigValue,JavaScript,Error,tfl_accountMain.js,account,Star Tour,{A1488962-8788-4264-9FF0-C7C62258AECD},You do not have {0} permission to access {1} records. Contact your Microsoft Dynamics 365 administrator for help.
+TFL.Application.Data.getConfigValue,JavaScript,Error,tfl_accountMain.js,account,Star Tour,{A1488962-8788-4264-9FF0-C7C62258AECD},You do not have {0} permission to access {1} records. Contact your Microsoft Dynamics 365 administrator for help.
+TFL.Application.Data.getConfigValue,JavaScript,Error,tfl_accountMain.js,account,Star Tour,{A1488962-8788-4264-9FF0-C7C62258AECD},You do not have {0} permission to access {1} records. Contact your Microsoft Dynamics 365 administrator for help.
+TFL.Application.Data.getConfigValue,JavaScript,Error,tfl_accountMain.js,account,Star Tour,{A1488962-8788-4264-9FF0-C7C62258AECD},You do not have {0} permission to access {1} records. Contact your Microsoft Dynamics 365 administrator for help.
+TFL.DeletionPolicy.Job run successfully on 2021-08-27T18:30:02.7928879Z,Power Automate,Information,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+"
+TFL.DeletionPolicy.Job run successfully on 2021-08-28T18:30:01.8210541Z,Power Automate,Information,DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+"
+TFL.Application.legalHoldOnChange,JavaScript,Error,tfl_accountMain.js,account,,,"TypeError: Cannot read property 'data' of null
+    at Object.legalHoldOnChange (https://trainwithkrish.crm11.dynamics.com/%7b637655286660000137%7d/webresources/tfl_accountMain.js:44:40)
+    at _executeFunctionInternal (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:4945)
+    at _.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:3750)
+    at https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24797
+    at i (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:286:88)
+    at $._executeIndividualEvent (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24771)
+    at $._executeEventHandler (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21913)
+    at Object.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21304)
+    at N._executeSyncAction (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:854:692)
+    at N._executeSync (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:854:419)"
+TFL.Application.Data.setField,JavaScript,Error,tfl_accountMain.js,account,Test Account 3,{9CA52902-D105-EC11-B6E6-0022481A3879},"TypeError: field.setValuex is not a function
+    at Object.setField (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:125:27)
+    at Object.legalHoldOnChange (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:71:29)
+    at _executeFunctionInternal (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:4945)
+    at _.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:3750)
+    at https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24797
+    at i (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:286:88)
+    at $._executeIndividualEvent (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24771)
+    at $._executeEventHandler (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21913)
+    at Object.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21304)
+    at N._executeSyncAction (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:854:692)"
+TFL.Application.Data.setRequirementLevel,JavaScript,Error,tfl_accountMain.js,account,Test Account 3,{9CA52902-D105-EC11-B6E6-0022481A3879},"ReferenceError: option1 is not defined
+    at Object.setRequirementLevel (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:137:44)
+    at Object.legalHoldOnChange (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:69:29)
+    at _executeFunctionInternal (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:4945)
+    at _.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:3750)
+    at https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24797
+    at i (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:286:88)
+    at $._executeIndividualEvent (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24771)
+    at $._executeEventHandler (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21913)
+    at Object.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21304)
+    at N._executeSyncAction (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:854:692)"
+TFL.Application.Data.setField,JavaScript,Error,tfl_accountMain.js,account,Test Account 3,{9CA52902-D105-EC11-B6E6-0022481A3879},"TypeError: field.setValuex is not a function
+    at Object.setField (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:125:27)
+    at Object.legalHoldOnChange (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:73:29)
+    at _executeFunctionInternal (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:4945)
+    at _.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:1923:3750)
+    at https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24797
+    at i (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:286:88)
+    at $._executeIndividualEvent (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:24771)
+    at $._executeEventHandler (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21913)
+    at Object.execute (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:133:21304)
+    at N._executeSyncAction (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:854:692)"
+TFL.Application.Data.setRequirementLevel,JavaScript,Error,tfl_accountMain.js,account,Test Account 3,{9CA52902-D105-EC11-B6E6-0022481A3879},"ReferenceError: option1 is not defined
+    at Object.setRequirementLevel (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:137:44)
+    at https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:53:41
+    at https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:660:122
+    at i (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:286:88)
+    at a (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:660:115)"
+TFL.Application.Data.setField,JavaScript,Error,tfl_accountMain.js,account,Test Account 3,{9CA52902-D105-EC11-B6E6-0022481A3879},"TypeError: field.setValuex is not a function
+    at Object.setField (https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:125:27)
+    at https://trainwithkrish.crm11.dynamics.com/%7b637655293270000137%7d/webresources/tfl_accountMain.js:55:41
+    at https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:660:122
+    at i (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:286:88)
+    at a (https://trainwithkrish.crm11.dynamics.com/uclient/scripts/app.js?v=1.4.3025-2108.1:660:115)"
+Retention Date not updated for Case: CAS-01012-L7Y5L2,Power Automate,Information,Set Retention End Date,Case,CAS-01012-L7Y5L2,02ad6a3b-b001-4300-a040-0d0a3dbf08a2,The retention date is not set for CAS-01012-L7Y5L2 as the case contact do not have a primary account. Please get in touch with admin for more information.
+TFL.DeletionPolicy.Job run successfully on 2021-08-27T09:25:03.8407575Z,Power Automate,Information,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+Test Account 1"
+TFL.DeletionPolicy.Job run successfully on 2021-08-27T09:28:51.8842333Z,Power Automate,Information,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T09:28:51.8998572Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+<a href=""https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715503545960342419260149CU22"">Run History</a>"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T09:53:41.4974660Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+<a href=""https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715488669257848752413865CU00"">Run History</a>"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T09:56:56.9479536Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+<a href=""https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715486717344023836345015CU12"">Run History</a>"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T09:59:06.0996745Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+<a href=""https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715485419192789228203934CU02"">Run History</a>"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T10:03:08.5342846Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+<a href=""https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715482989723876771220561CU18"">Run History</a>"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T10:04:15.0693685Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+<a href=""https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715482319669856161171669CU29"">Run History</a>"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T10:15:57.7562048Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+<a href=""https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715475309913636583645247CU20"">Run History</a>"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T10:17:41.4146428Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed.More information on run details can be accessed by clicking on the url below.
+
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715474264271391034763572CU22"
+Retention Date update Failed for Case - CAS-01015-M2F8Z8,Power Automate,Error,Set Retention End Date,Case,Test Case 100,339f2ba8-b2c6-4e0c-97a3-172418585ec1,"TFL.Retention.Process has been failed. Here is the process execution context - 
+Case Status is: 0
+Case Title is: Test Case 100
+Case Number is: CAS-01015-M2F8Z8
+Customer Type is: accounts
+Customer is: 4072c76a-2b07-ec11-b6e6-0022481a3879
+Triggered By: 282587a0-e18d-eb11-b1ac-000d3ae92b46
+
+More information on run details can be accessed by navigating to the url given below.
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/47e20e40-93a7-4893-a0c0-5137b05093f8/runs/08585715421809601474757541862CU22"
+Retention Date update Failed for Case - CAS-01015-M2F8Z8,Power Automate,Error,Set Retention End Date,Case,Test Case 100,339f2ba8-b2c6-4e0c-97a3-172418585ec1,"TFL.Retention.Process has been failed. Here is the process execution context - 
+Case Status is: 0;  
+Case Title is: Test Case 100;  
+Case Number is: CAS-01015-M2F8Z8;  
+Customer Type is: accounts;  
+Customer is: 4072c76a-2b07-ec11-b6e6-0022481a3879;  
+Triggered By: 282587a0-e18d-eb11-b1ac-000d3ae92b46  
+
+More information on run details can be accessed by navigating to the url given below.
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/47e20e40-93a7-4893-a0c0-5137b05093f8/runs/08585715416407162804639110990CU12"
+Retention Date update Failed for Case - CAS-01015-M2F8Z8,Power Automate,Error,Set Retention End Date,Case,Test Case 100,339f2ba8-b2c6-4e0c-97a3-172418585ec1,"TFL.Retention.Process has been failed. Here is the process execution context - 
+Case Status is: 0;  
+Case Title is: Test Case 100;  
+Case Number is: CAS-01015-M2F8Z8;  
+Customer Type is: accounts;  
+Customer is: 4072c76a-2b07-ec11-b6e6-0022481a3879;  
+Triggered By: 282587a0-e18d-eb11-b1ac-000d3ae92b46  
+
+More information on run details can be accessed by navigating to the url given below.
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/47e20e40-93a7-4893-a0c0-5137b05093f8/runs/08585715413890030477057281950CU23"
+Parent Account is missing for case CAS-01006-X6R3W2,Power Automate,Warning,Set Retention End Date,Case,Test Case,6d9ed35d-d252-4669-b6ed-b58e51e87ca7,"Retention end date update has been failed for case CAS-01006-X6R3W2. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01006-X6R3W2"
+Parent Account is missing for case CAS-01019-V8Z6F6,Power Automate,Warning,Set Retention End Date,Case,No primary Account,f2318049-4172-4e3a-9f32-3a01d459d474,"Retention end date update has been failed for case CAS-01019-V8Z6F6. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01019-V8Z6F6"
+Retention Date update Failed for Case - CAS-01000-Z0T7L1,Power Automate,Error,Set Retention End Date,Case,Test Case,65ca9243-726c-43a7-ae3e-e953062da034,"TFL.Retention.Process has been failed. Here is the process execution context - 
+Case Status is: 1;  
+Case Title is: Test Case;  
+Case Number is: CAS-01000-Z0T7L1;  
+Customer Type is: contacts;  
+Customer is: cfe6dfb4-6f03-ec11-b6e6-0022481a3879;  
+Triggered By: 282587a0-e18d-eb11-b1ac-000d3ae92b46  
+
+More information on run details can be accessed by navigating to the url given below.
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/47e20e40-93a7-4893-a0c0-5137b05093f8/runs/08585715370740508939175956402CU19"
+Retention Date update Failed for Case - CAS-01000-Z0T7L1,Power Automate,Error,Set Retention End Date,Case,Test Case,65ca9243-726c-43a7-ae3e-e953062da034,"TFL.Retention.Process has been failed. Here is the process execution context - 
+Case Status is: 1;  
+Case Title is: Test Case;  
+Case Number is: CAS-01000-Z0T7L1;  
+Customer Type is: contacts;  
+Customer is: cfe6dfb4-6f03-ec11-b6e6-0022481a3879;  
+Triggered By: 282587a0-e18d-eb11-b1ac-000d3ae92b46  
+
+More information on run details can be accessed by navigating to the url given below.
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/47e20e40-93a7-4893-a0c0-5137b05093f8/runs/08585715368938639078849150956CU02"
+TFL.DeletionPolicy.Job run successfully on 2021-08-27T13:14:23.1235997Z,Power Automate,Information,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T13:15:24.4533403Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed. More information on run details can be accessed by navigating to the url given below.
+
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715367645022937210181778CU19"
+TFL.DeletionPolicy.Job run successfully on 2021-08-27T13:16:16.0952375Z,Power Automate,Information,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+"
+Retention Date update Failed for Case - CAS-01000-Z0T7L1,Power Automate,Error,Set Retention End Date,Case,Test Case,65ca9243-726c-43a7-ae3e-e953062da034,"TFL.Retention.Process has been failed. Here is the process execution context - 
+Case Status is: 1;  
+Case Title is: Test Case;  
+Case Number is: CAS-01000-Z0T7L1;  
+Customer Type is: contacts;  
+Customer is: cfe6dfb4-6f03-ec11-b6e6-0022481a3879;  
+Triggered By: 282587a0-e18d-eb11-b1ac-000d3ae92b46  
+
+More information on run details can be accessed by navigating to the url given below.
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/47e20e40-93a7-4893-a0c0-5137b05093f8/runs/08585715365406874028017765602CU01"
+Parent Account is missing for case CAS-01000-Z0T7L1,Power Automate,Warning,Set Retention End Date,Case,Test Case,65ca9243-726c-43a7-ae3e-e953062da034,"Retention end date update has been failed for case CAS-01000-Z0T7L1. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01000-Z0T7L1"
+TFL.DeletionPolicy.Job has been failed on 2021-08-27T13:39:42.5146452Z,Power Automate,Error,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"Job has been failed. More information on run details can be accessed by navigating to the url given below.
+
+https://unitedkingdom.flow.microsoft.com/manage/environments/1de20b32-b35a-44ff-9710-d28a11afc3cf/flows/626c45ea-784c-4bd2-9085-0ae67bff75b0/runs/08585715353063521213677465502CU00"
+Parent Account is missing for case CAS-01000-Z0T7L1,Power Automate,Warning,Set Retention End Date,Case,Test Case,65ca9243-726c-43a7-ae3e-e953062da034,"Retention end date update has been failed for case CAS-01000-Z0T7L1. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01000-Z0T7L1"
+Parent Account is missing for case CAS-01000-Z0T7L1,Power Automate,Warning,Set Retention End Date,Case,Test Case,65ca9243-726c-43a7-ae3e-e953062da034,"Retention end date update has been failed for case CAS-01000-Z0T7L1. The customer associated with case does not have a parent account.
+
+For more details please contact your administrator.CAS-01000-Z0T7L1"
+TFL.DeletionPolicy.Job run successfully on 2021-08-27T18:30:03.2886893Z,Power Automate,Information,TFL.DeletionPolicy.Job,"Account, Cases, Contacts, Notes, Activities",,,"All associated contacts, cases, cases for assoicated contacts along with notes, attachments, activities for the corresponding accounts, contacts and cases have been deleted. List of impacted accounts are -  
+"
